@@ -2,6 +2,7 @@
 All my IT projects including architectural diagrams and codes
 
 **Automated ELK Stack Deployment**
+
 The files in this repository were used to configure the network depicted below.
 lanige82/lanigeproject/diagrams/ELK_Server_Monitorsetup.drawio
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the filebeatplaybook.yml file may be used to install only certain pieces of it, such as Filebeat.
