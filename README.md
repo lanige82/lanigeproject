@@ -21,6 +21,7 @@ This document contains the following details:
 - How to Use the Ansible Build
 
 **Description of the Topology**
+
 The main purpose of this network is to expose a load-balanced and monitored instance of DVWA, the D*mn Vulnerable Web Application.
 Load balancing ensures that the application will be highly available, in addition to restricting access to the network.
 Load balancer manages traffic coming into the DVWA servers, and prevent the servers from denial of service attack. 
@@ -38,6 +39,7 @@ The configuration details of each machine may be found below.
 | ELK server     |ELKserver    |  10.1.0.4     |linux             |
 
 **Access Policies**
+
 The machines on the internal network are not exposed to the public Internet.
 Only the jumpbox machine can accept connections from the Internet. Access to this machine is only allowed from the following IP addresses:
 <my-home-public-IP>
@@ -54,6 +56,7 @@ A summary of the access policies in place can be found in the table below.
 
 
 **Elk Configuration**
+
 Ansible was used to automate configuration of the ELK machine. No configuration was performed manually, which is advantageous because it ensures that the scripts runs identically and any time, we need to work on the machine be it to spin up addition machine/server we don’t need to halt the operation. We can edit the script and make adjustments then just run it without halting the running servers
 The main advantage of automating configuration with Ansible? it is for easy configuration and orchestration; a single script can be used to orchestrate thousands of servers.
 The playbook implements the following tasks:
@@ -67,6 +70,7 @@ The following screenshot displays the result of running `docker ps` after succes
 lanige82/lanigeproject/diagrams/dockerPs.png
 
 **Target Machines & Beats**
+
 This ELK server is configured to monitor the following machines:
 •	DVWA Web1 10.0.0.5
 •	DVWA web2 10.0.0.6
