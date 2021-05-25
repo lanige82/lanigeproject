@@ -5,6 +5,12 @@ All my IT projects including architectural diagrams and codes
 
 The files in this repository were used to configure the network depicted below.
 
+
+
+![image](https://user-images.githubusercontent.com/84403949/119572158-3f5bc180-bdaa-11eb-9094-d8f6ffa120c6.png)
+
+
+
 lanige82/lanigeproject/diagrams/ELK_Server_Monitorsetup.drawio
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the Playbook.yml file may be used to install only certain pieces of it, such as Filebeat.
