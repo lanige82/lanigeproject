@@ -1,0 +1,15 @@
+#!/bin/bash
+
+for user in $(ls /etc)
+do   
+    for item in $(find /etc/$user -iname 'passwd')
+    do
+        echo -e "Found a directory in $user's etc folder! \n$item"
+    done
+ do 
+    for item in $(find /etc/$user -iname 'shadow')
+do 
+    echo -e "Found a directory in $user's etc folder! \n$item"
+
+done
+

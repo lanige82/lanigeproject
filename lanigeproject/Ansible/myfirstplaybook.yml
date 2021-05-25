@@ -1,0 +1,10 @@
+---
+- name: my fisrt playbook
+  hosts: webservers
+  become: true
+  tasks:
+
+  - name: install apache http
+    apt:
+      name: apache2
+      state: present
