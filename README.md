@@ -50,7 +50,7 @@ A summary of the access policies in place can be found in the table below.
 | Name             | Publicly Accessible   | Allowed IP Addresses |
 |------------------|----------------------------|----------------------|
 | Jump Box      | yes                               | 13.92.43.248  |
-| DVWA web1 | no                                | via loadbalancer (137.117.64.26)|
+| DVWA web1 and web2 | no                                | via loadbalancer (137.117.64.26)|
 | ELKserver     | yes(only port 5601)  | internet   			 |
 
 
