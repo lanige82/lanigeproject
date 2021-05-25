@@ -101,9 +101,15 @@ We specified the hosts in our playbook as "webservers".  Since we need to monito
 We navigated to http://[elk_public_IP_address]:5601/app/kibana to check if the elk server is running.
 
 Following  commands can be used to download the playbook, update the files, etc.
+
 we can use the curl command to download the filebeat and metricbeat playbook using 
+
 curl -L -O https://artifacts.elastic.co/downloads/beats/filebeatbeat/filebeat-7.6.1-amd64.deb
+
 curl -L -O https://artifacts.elastic.co/downloads/beats/metricbeat/metricbeat-7.6.1-amd64.deb_
-we use the dpkg to install and update the download
+
+ we use the dpkg to install and update the download
+ 
  dpkg -i filebeat-7.6.1-amd64.deb
+ 
  dpkg -i metricbeat-7.6.1-amd64.deb
