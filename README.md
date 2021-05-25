@@ -4,21 +4,23 @@ All my IT projects including architectural diagrams and codes
 **Automated ELK Stack Deployment**
 
 The files in this repository were used to configure the network depicted below.
+
 lanige82/lanigeproject/diagrams/ELK_Server_Monitorsetup.drawio
-These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the filebeatplaybook.yml file may be used to install only certain pieces of it, such as Filebeat.
- Enter the playbook file.
-•	metricbeatplaybook.yml
-•	filebeatplaybook.yml
-•	install-elk.yml
-•	filebeat-config.yml
-•	metricbeat-config.yml
+
+These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the Playbook.yml file may be used to install only certain pieces of it, such as Filebeat.
+ 
+•	Metricbeatplaybook.yml
+•	Filebeatplaybook.yml
+•	Install-elk.yml
+•	Filebeat-config.yml
+•	Metricbeat-config.yml
 
 This document contains the following details:
 - Description of the Topology
 - Access Policies
 - ELK Configuration
- - Beats in Use
- - Machines Being Monitored
+- Beats in Use
+- Machines Being Monitored
 - How to Use the Ansible Build
 
 **Description of the Topology**
