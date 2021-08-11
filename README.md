@@ -132,6 +132,7 @@ Red team activity. Security assessment of a vulnerable Linux system with a full 
 
 **Network Topology**
  
+ lanigeproject2/capstoneproject.png 
 
 **Assessment, Analysis and Hardening of a Vulnerable WordPress Web Server**
  
