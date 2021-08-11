@@ -133,6 +133,8 @@ Red team activity. Security assessment of a vulnerable Linux system with a full 
 **Network Topology**
  
 ![image](https://user-images.githubusercontent.com/84403949/128955467-5afca5b4-453b-43ed-b2c9-b5b6145e2e81.png)
+ 
+ View project https://github.com/lanige82/lanigeproject/tree/main/lanigeproject2
 
 **Assessment, Analysis and Hardening of a Vulnerable WordPress Web Server**
  
