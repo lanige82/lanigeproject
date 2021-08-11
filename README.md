@@ -1,11 +1,8 @@
 # lanigeproject
-All my IT projects including architectural diagrams and codes
 
 **Automated ELK Stack Deployment**
 
 The files in this repository were used to configure the network depicted below.
-
-
 
 ![image](https://user-images.githubusercontent.com/84403949/119572158-3f5bc180-bdaa-11eb-9094-d8f6ffa120c6.png)
 
@@ -57,8 +54,6 @@ A summary of the access policies in place can be found in the table below.
 | Jump Box      | yes                               | 13.92.43.248  |
 | DVWA web1 and web2 | no                                | via loadbalancer (137.117.64.26)|
 | ELKserver     | yes(only port 5601)  | internet   			 |
-
-
 
 
 **Elk Configuration**
