@@ -122,7 +122,7 @@ curl -L -O https://artifacts.elastic.co/downloads/beats/metricbeat/metricbeat-7.
  
  dpkg -i metricbeat-7.6.1-amd64.deb
  
-
+# lanigeproject2
 
  **Assessment, Analysis and Hardening of a Vulnerable system (Capstone Engagement)**
  
@@ -136,7 +136,9 @@ curl -L -O https://artifacts.elastic.co/downloads/beats/metricbeat/metricbeat-7.
  
  View project https://github.com/lanige82/lanigeproject/tree/main/lanigeproject2
 
-**Assessment, Analysis and Hardening of a Vulnerable WordPress Web Server**
+# lanigeproject3
+ 
+ **Assessment, Analysis and Hardening of a Vulnerable WordPress Web Server**
  
 **Red team activity:** Security assessment of a vulnerable Linux system with a full penetration engagement using KALI Linux operating system tools like NMAP, Wp-scan, exploiting ssh protocol, Brute forcing using John-The-Ripper, Misconfiguration of sudo privileges were exploited, MySQL database was accessed to obtain sensitive data
 
