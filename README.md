@@ -121,12 +121,20 @@ curl -L -O https://artifacts.elastic.co/downloads/beats/metricbeat/metricbeat-7.
  dpkg -i filebeat-7.6.1-amd64.deb
  
  dpkg -i metricbeat-7.6.1-amd64.deb
+ 
 
  **Assessment, Analysis and Hardening of a Vulnerable system (Capstone Engagement).**
+ 
 ●	Red team activity. Security assessment of a vulnerable Linux system with a full penetration engagement using KALI Linux operating system tools like NMAP, Nessus vulnerability scanner, brute forcing using Hydra Metasploit.
 ●	Blue Team activity: Log analysis and attack characterization using ELK log management and monitoring and analysis.
 
+**Network Topology**
+ 
 **Assessment, Analysis and Hardening of a Vulnerable WordPress Web Server**
+ 
 ●	Red team activity. Security assessment of a vulnerable Linux system with a full penetration engagement using KALI Linux operating system tools like NMAP, Wp-scan, exploiting ssh protocol, Brute forcing using John-The-Ripper, Misconfiguration of sudo privileges were exploited, MySQL database was accessed to obtain sensitive data
 ●	Blue Team activity: Log analysis and attack characterization using ELK log management and monitoring and analysis.
 ●	Network Analysis and Forensic: Deep network packet analysis using Wireshark. Network packets were sniffed and analyzed to examine normal and suspicious activities.
+
+**Network Topology**
+ 
