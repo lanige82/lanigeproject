@@ -143,4 +143,6 @@ Blue Team activity: Log analysis and attack characterization using ELK log manag
  Network Analysis and Forensic: Deep network packet analysis using Wireshark. Network packets were sniffed and analyzed to examine normal and suspicious activities.
 
 **Network Topology**
- 
+
+ ![image](https://user-images.githubusercontent.com/84403949/128955531-d9793379-6cd9-49f0-8795-2eb8d0f4ae3f.png)
+
