@@ -126,9 +126,9 @@ curl -L -O https://artifacts.elastic.co/downloads/beats/metricbeat/metricbeat-7.
 
  **Assessment, Analysis and Hardening of a Vulnerable system (Capstone Engagement)**
  
-Red team activity. Security assessment of a vulnerable Linux system with a full penetration engagement using KALI Linux operating system tools like NMAP, Nessus vulnerability scanner, brute forcing using Hydra Metasploit.
+ **Red team activity:** Security assessment of a vulnerable Linux system with a full penetration engagement using KALI Linux operating system tools like NMAP, Nessus vulnerability scanner, brute forcing using Hydra Metasploit.
 
- Blue Team activity: Log analysis and attack characterization using ELK log management,monitoring and analysis.
+**Blue Team activity:** Log analysis and attack characterization using ELK log management,monitoring and analysis.
 
 **Network Topology**
  
@@ -138,13 +138,15 @@ Red team activity. Security assessment of a vulnerable Linux system with a full 
 
 **Assessment, Analysis and Hardening of a Vulnerable WordPress Web Server**
  
-Red team activity. Security assessment of a vulnerable Linux system with a full penetration engagement using KALI Linux operating system tools like NMAP, Wp-scan, exploiting ssh protocol, Brute forcing using John-The-Ripper, Misconfiguration of sudo privileges were exploited, MySQL database was accessed to obtain sensitive data
+**Red team activity:** Security assessment of a vulnerable Linux system with a full penetration engagement using KALI Linux operating system tools like NMAP, Wp-scan, exploiting ssh protocol, Brute forcing using John-The-Ripper, Misconfiguration of sudo privileges were exploited, MySQL database was accessed to obtain sensitive data
 
-Blue Team activity: Log analysis and attack characterization using ELK log management and monitoring and analysis.
+**Blue Team activity:** Log analysis and attack characterization using ELK log management and monitoring and analysis.
 
- Network Analysis and Forensic: Deep network packet analysis using Wireshark. Network packets were sniffed and analyzed to examine normal and suspicious activities.
+**Network Analysis and Forensic:** Deep network packet analysis using Wireshark. Network packets were sniffed and analyzed to examine normal and suspicious activities.
 
 **Network Topology**
 
  ![image](https://user-images.githubusercontent.com/84403949/128955531-d9793379-6cd9-49f0-8795-2eb8d0f4ae3f.png)
+ 
+ **View Project** https://github.com/lanige82/lanigeproject/tree/main/lanigeproject3
 
